@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- I am Bimbo, I am a passionate, entrepreneurial, self-driven Software Developer with a special interest in start-ups, product and team building
 <!--
 **bhimbho/bhimbho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
