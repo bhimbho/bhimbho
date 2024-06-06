@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 -->
 <a  href="http://github.com/bhimbho"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bhimbho&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%"/></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhimbho&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bhimbho?cardType=octocat&theme=github&preferLogin=true)](https://git.io/awesome-stats-card)
