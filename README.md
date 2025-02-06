@@ -1,6 +1,6 @@
-### Hi there 👋
-I am Bimbo, I am a passionate, entrepreneurial, self-driven Software Developer with a special interest in start-ups, product and team building.
-I hope you'd enjoy your stay while on my github profile
+### Hi I'm Soneye 👋
+I'm a passionate, entrepreneurial, and self-driven Software Developer with a keen interest in startups, product development, and team building.
+Feel free to explore my projects—I hope you enjoy your time on my GitHub profile! 🚀
 <!--
 **bhimbho/bhimbho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
