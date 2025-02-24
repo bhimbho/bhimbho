@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a  href="http://github.com/bhimbho"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bhimbho&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%"/></a>
+<a  href="http://github.com/bhimbho">
+
+</a>
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bhimbho?cardType=octocat&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
